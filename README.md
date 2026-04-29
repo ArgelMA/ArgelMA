@@ -1,9 +1,9 @@
-### 👋 Hi, I’m @Argel
+### Hi, I’m @Argel
 
-- 👀 I’m interested in software development, open source, and building cool web and AI-powered projects.
-- 🌱 I’m currently learning advanced Angular patterns, .NET backend architecture, and clean coding practices.
-- 💞️ I’m looking to collaborate on remote tech projects, modern UI/UX, and open source initiatives.
-- 📫 How to reach me: bargelma@gmail.com or via [LinkedIn](https://www.linkedin.com/in/b-argelavila/)
+- I’m interested in software development, open source, and building cool web and AI-powered projects.
+- I’m currently learning advanced Angular patterns, .NET backend architecture, and clean coding practices.
+- I’m looking to collaborate on remote tech projects, modern UI/UX, and open source initiatives.
+- How to reach me: bargelma@gmail.com or via [LinkedIn](https://www.linkedin.com/in/b-argelavila/)
 
 ### 🧰 Tech Stack
 **Frontend**
@@ -25,13 +25,13 @@
 - Redux Toolkit, RxJS, Chart.js, ShadCN, ESLint, Prettier
 
 ***Programming Languages***
-- TypeScript, Python, JavaScript, C#, Java, C++, C, Bash
+- TypeScript, JavaScript, Python, C#, Java, C++, C, Bash
 
 
-### 🌍 Life Languages 😁
-- Español 🇲🇽 (nativo)  
+### Life Languages
+- Español 🇲🇽 (native)  
 - English 🇺🇸 (fluent)  
-- Deutsch 🇩🇪 (basic, learning!)
+- Deutsch 🇩🇪 (basic, learning)
 
 
 <!---
